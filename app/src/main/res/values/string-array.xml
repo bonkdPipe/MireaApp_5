@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="productsCategory">
+        <item>Diary</item>
+        <item>Vegetables</item>
+        <item>Fruit</item>
+        <item>Meat</item>
+        <item>Drinks</item>
+        <item>Pasta and rice</item>
+        <item>Canned Food</item>
+        <item>Snacks</item>
+        <item>Bakery</item>
+    </string-array>
+
+    <string-array name="products_1">
+        <item>Coolhaus</item>
+        <item>Danone</item>
+        <item>Kraft Heinz</item>
+        <item>Shamrock</item>
+    </string-array>
+
+    <string-array name="products_2">
+        <item>VegFresh</item>
+        <item>Nortera</item>
+        <item>Vertical</item>
+    </string-array>
+
+    <string-array name="products_3">
+        <item>Del Monte</item>
+        <item>Hohes C</item>
+        <item>Persian</item>
+    </string-array>
+
+    <string-array name="products_4">
+        <item>BRF</item>
+        <item>Cargill</item>
+        <item>Clemens</item>
+        <item>Conagra</item>
+    </string-array>
+
+    <string-array name="products_5">
+        <item>Cola</item>
+        <item>Pepsi</item>
+        <item>Plain WATER OMG</item>
+        <item>sugary water :))</item>
+    </string-array>
+
+    <string-array name="products_6">
+        <item>very special rice</item>
+        <item>cool stuff vey usefl</item>
+        <item>bogatir</item>
+    </string-array>
+
+    <string-array name="products_7">
+        <item>Seledka</item>
+        <item>tushenka</item>
+        <item>Campbell</item>
+        <item>Bush</item>
+    </string-array>
+
+    <string-array name="products_8">
+        <item>Lays</item>
+        <item>Pringles</item>
+    </string-array>
+
+    <string-array name="products_9">
+        <item>Bulka</item>
+        <item>Bread</item>
+    </string-array>
+
+    <string-array name="secret">
+        <item>Bulka</item>
+        <item>Bread</item>
+        <item>Bread</item>
+        <item>Bread</item>
+        <item>Bread</item>
+        <item>Bread</item>
+        <item>Bread</item>
+        <item>Bread</item>
+        <item>Bread</item>
+        <item>Bread</item>
+        <item>Bread</item>
+
+        <item>Bread</item>
+        <item>Bread</item>
+        <item>Bread</item>
+        <item>Bread</item>
+        <item>Bread</item>
+        <item>Bread</item>
+        <item>Bread</item>
+    </string-array>
+
+    <integer-array name="random_images">
+        <item>@drawable/pic1</item>
+        <item>@drawable/pic2</item>
+        <item>@drawable/pic3</item>
+    </integer-array>
+</resources>
